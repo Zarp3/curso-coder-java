@@ -48,11 +48,11 @@ function mostrarCarrito() {
   });
 }
 
-// Guardar en localStorage
+
 function guardarCarrito() {
   localStorage.setItem("carrito", JSON.stringify(carrito));
 }
 
-// Inicializar app
+
 mostrarProductos();
 mostrarCarrito();
