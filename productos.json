@@ -1,0 +1,4 @@
+[
+  { "id": 1, "nombre": "Auriculares Pro X", "precio": 64999, "stock": 12, "categoria": "Audio", "imagen": "🎧" },
+  { "id": 2, "nombre": "Teclado Mecánico RGB", "precio": 89999, "stock": 8,  "categoria": "Periféricos", "imagen": "⌨️" }
+]
